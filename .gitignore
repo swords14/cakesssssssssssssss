@@ -1,0 +1,11 @@
+#Node_Modules
+node_modules
+
+#Lock
+package-lock.json
+
+#firebase configuration
+src/firebase/config.js
+
+#Expo files
+.expo
